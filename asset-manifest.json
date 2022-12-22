@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.abe0fe2f.css",
-    "main.js": "/static/js/main.06f8757d.js",
-    "static/js/787.6b503308.chunk.js": "/static/js/787.6b503308.chunk.js",
+    "main.css": "/static/css/main.702253e5.css",
+    "main.js": "/static/js/main.ea0707e8.js",
+    "static/js/27.61c4bd18.chunk.js": "/static/js/27.61c4bd18.chunk.js",
     "static/media/diner3.png": "/static/media/diner3.8949b184c14d478c90e0.png",
     "static/media/Montserrat-VariableFont_wght.ttf": "/static/media/Montserrat-VariableFont_wght.3faa3eef13649db02044.ttf",
     "static/media/Pacifico-Regular.ttf": "/static/media/Pacifico-Regular.c0d735fc04154e03a691.ttf",
@@ -19,13 +19,10 @@
     "static/media/busURL.png": "/static/media/busURL.75575e8262150f981cfd.png",
     "static/media/WendyOne-Regular.ttf": "/static/media/WendyOne-Regular.63e47643d58b20318804.ttf",
     "static/media/pub3.png": "/static/media/pub3.7d389834a5703b619c24.png",
-    "index.html": "/index.html",
-    "main.abe0fe2f.css.map": "/static/css/main.abe0fe2f.css.map",
-    "main.06f8757d.js.map": "/static/js/main.06f8757d.js.map",
-    "787.6b503308.chunk.js.map": "/static/js/787.6b503308.chunk.js.map"
+    "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.abe0fe2f.css",
-    "static/js/main.06f8757d.js"
+    "static/css/main.702253e5.css",
+    "static/js/main.ea0707e8.js"
   ]
 }
