@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.702253e5.css",
-    "main.js": "/static/js/main.69f7c66c.js",
+    "main.js": "/static/js/main.d8e2b190.js",
     "static/js/27.61c4bd18.chunk.js": "/static/js/27.61c4bd18.chunk.js",
     "static/media/diner_link.png": "/static/media/diner_link.ff654721bcaf77e97c6c.png",
     "static/media/Montserrat-VariableFont_wght.ttf": "/static/media/Montserrat-VariableFont_wght.3faa3eef13649db02044.ttf",
@@ -23,6 +23,6 @@
   },
   "entrypoints": [
     "static/css/main.702253e5.css",
-    "static/js/main.69f7c66c.js"
+    "static/js/main.d8e2b190.js"
   ]
 }
