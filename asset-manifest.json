@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.702253e5.css",
-    "main.js": "/static/js/main.1c19e49a.js",
+    "main.js": "/static/js/main.3e253e93.js",
     "static/js/27.61c4bd18.chunk.js": "/static/js/27.61c4bd18.chunk.js",
-    "static/media/diner3.png": "/static/media/diner3.8949b184c14d478c90e0.png",
+    "static/media/diner_link.png": "/static/media/diner_link.ff654721bcaf77e97c6c.png",
     "static/media/Montserrat-VariableFont_wght.ttf": "/static/media/Montserrat-VariableFont_wght.3faa3eef13649db02044.ttf",
     "static/media/Pacifico-Regular.ttf": "/static/media/Pacifico-Regular.c0d735fc04154e03a691.ttf",
     "static/media/Montserrat-SemiBold.ttf": "/static/media/Montserrat-SemiBold.d5e0cc788cba9ced1fb9.ttf",
@@ -15,14 +15,14 @@
     "static/media/Yellowtail-Regular.ttf": "/static/media/Yellowtail-Regular.68015177cbf9575be4a4.ttf",
     "static/media/BebasNeue-Regular.ttf": "/static/media/BebasNeue-Regular.12e3683f9192436a7be8.ttf",
     "static/media/EduQLDBeginner-VariableFont_wght.ttf": "/static/media/EduQLDBeginner-VariableFont_wght.88cd563f682eac5a4b28.ttf",
-    "static/media/cafe3.png": "/static/media/cafe3.84d00e270b2965d7f755.png",
-    "static/media/busURL.png": "/static/media/busURL.75575e8262150f981cfd.png",
+    "static/media/cafe_link.png": "/static/media/cafe_link.4dd64dbf3e60fd61cbd4.png",
+    "static/media/pub_link.png": "/static/media/pub_link.789568b0037d53b03fd1.png",
+    "static/media/bus_link.png": "/static/media/bus_link.876e90aa3495b877ee40.png",
     "static/media/WendyOne-Regular.ttf": "/static/media/WendyOne-Regular.63e47643d58b20318804.ttf",
-    "static/media/pub3.png": "/static/media/pub3.7d389834a5703b619c24.png",
     "index.html": "/index.html"
   },
   "entrypoints": [
     "static/css/main.702253e5.css",
-    "static/js/main.1c19e49a.js"
+    "static/js/main.3e253e93.js"
   ]
 }
