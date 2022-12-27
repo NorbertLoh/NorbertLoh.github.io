@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.eb21188f.css",
-    "main.js": "/static/js/main.0d51ced4.js",
+    "main.css": "/static/css/main.d3505b23.css",
+    "main.js": "/static/js/main.aa6c4ee4.js",
     "static/js/27.61c4bd18.chunk.js": "/static/js/27.61c4bd18.chunk.js",
     "static/media/diner_logo.png": "/static/media/diner_logo.5494d7ff56cfe8ea91b3.png",
     "static/media/FrederickatheGreat-Regular.ttf": "/static/media/FrederickatheGreat-Regular.69cef5dc99024da59d1e.ttf",
@@ -27,7 +27,7 @@
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.eb21188f.css",
-    "static/js/main.0d51ced4.js"
+    "static/css/main.d3505b23.css",
+    "static/js/main.aa6c4ee4.js"
   ]
 }
