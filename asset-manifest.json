@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.d3505b23.css",
-    "main.js": "/static/js/main.4c34d1fa.js",
+    "main.js": "/static/js/main.e0e7ca41.js",
     "static/js/27.61c4bd18.chunk.js": "/static/js/27.61c4bd18.chunk.js",
-    "static/media/diner_logo.png": "/static/media/diner_logo.5494d7ff56cfe8ea91b3.png",
+    "static/media/diner_link_2.png": "/static/media/diner_link_2.c9eeb2aae118c37cbfdf.png",
     "static/media/FrederickatheGreat-Regular.ttf": "/static/media/FrederickatheGreat-Regular.69cef5dc99024da59d1e.ttf",
     "static/media/Kalam-Regular.ttf": "/static/media/Kalam-Regular.831aaad03890ba2d7417.ttf",
     "static/media/Montserrat-VariableFont_wght.ttf": "/static/media/Montserrat-VariableFont_wght.3faa3eef13649db02044.ttf",
@@ -28,6 +28,6 @@
   },
   "entrypoints": [
     "static/css/main.d3505b23.css",
-    "static/js/main.4c34d1fa.js"
+    "static/js/main.e0e7ca41.js"
   ]
 }
