@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.3bb72429.css",
-    "main.js": "/static/js/main.c0b7e103.js",
+    "main.css": "/static/css/main.afe1fe87.css",
+    "main.js": "/static/js/main.f2c23c40.js",
     "static/js/27.61c4bd18.chunk.js": "/static/js/27.61c4bd18.chunk.js",
     "static/media/diner_link_2.png": "/static/media/diner_link_2.c9eeb2aae118c37cbfdf.png",
     "static/media/FrederickatheGreat-Regular.ttf": "/static/media/FrederickatheGreat-Regular.69cef5dc99024da59d1e.ttf",
@@ -27,7 +27,7 @@
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.3bb72429.css",
-    "static/js/main.c0b7e103.js"
+    "static/css/main.afe1fe87.css",
+    "static/js/main.f2c23c40.js"
   ]
 }
